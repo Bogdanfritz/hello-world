@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Starting out with Git
+Starting out with Git!
